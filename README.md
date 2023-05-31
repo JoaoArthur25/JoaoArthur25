@@ -2,6 +2,7 @@
 
 - 🔍 Estagiário de desenvolvimento de software backend da Zenith Inova
 - ⚡ Membro do Escritório de Engenharia do CESUPA
+- 📘 Representante de turma de Engenharia da Computação do CESUPA
 - 📘 Estudante do 2º semestre de Engenharia de Computação no CESUPA
 
 <div align="center">
