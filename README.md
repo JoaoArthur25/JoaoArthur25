@@ -1,6 +1,6 @@
 ### Olá ! Seja bem-vindo 👋
 
-- ⛰️ Estagiário de desenvolvimento de software backend da Zenith Inova
+- ⛰️ Estagiário de desenvolvimento de software back-end e front-end da Zenith Inova
 - ⚡ Membro do Escritório de Engenharia do CESUPA
 - 📘 Representante de turma de Engenharia da Computação do CESUPA
 - 🔍 Estudante do 2º semestre de Engenharia de Computação no CESUPA
