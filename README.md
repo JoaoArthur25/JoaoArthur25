@@ -1,8 +1,6 @@
 ### Olá ! Seja bem-vindo 👋
 
-- ⚡ Membro do Escritório de Engenharia do CESUPA
-- 📘 Representante de turma de Engenharia da Computação do CESUPA
-- 🔍 Estudante do 2º semestre de Engenharia de Computação no CESUPA
+- ⚡ Dev como voluntário civil na SEGUP.
 
 <div align="center">
   <a href="https://github.com/JoaoArthur25">
