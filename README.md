@@ -1,6 +1,7 @@
 ### Olá ! Seja bem-vindo 👋
 
 - ⚡ Dev como voluntário civil na SEGUP.
+- 🌐 Freelancer em Desenvolvimento Web
 
 <div align="center">
   <a href="https://github.com/JoaoArthur25">
