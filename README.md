@@ -1,6 +1,6 @@
 ### Olá ! Seja bem-vindo 👋
 
-- ⚡ Dev como voluntário civil na SEGUP.
+- ⚡ Estudante de Ciência da Computação na UDESC Joinville
 - 🌐 Freelancer em Desenvolvimento Web
 
 <div align="center">
