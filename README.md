@@ -2,6 +2,7 @@
 
 - ⚡ Estudante de Ciência da Computação na UDESC Joinville
 - 🌐 Freelancer em Desenvolvimento Web
+- 💼 Membro Konvex Jr
 
 <div align="center">
   <a href="https://github.com/JoaoArthur25">
