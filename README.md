@@ -1,4 +1,4 @@
-<h1 align="center">Olá, eu sou o João Arthur! 👋</h1>
+<h1 align="center">Olá! 👋</h1>
 
 <div align="center">
   <a href="https://github.com/JoaoArthur25">
@@ -36,7 +36,6 @@
   <img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white" />
 </p>
 
-    </td>
   </tr>
 </table>
 
